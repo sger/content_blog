@@ -1,5 +1,5 @@
 ---
-title: Hello World test
+title: 2013-07-21-test-post1
 tags: [ruby, sinatra, redis]
 ---
 
@@ -11,3 +11,6 @@ tags: [ruby, sinatra, redis]
 6.test
 7.test
 8.test
+
+
+
