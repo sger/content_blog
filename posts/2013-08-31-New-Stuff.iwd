@@ -1,0 +1,2 @@
+New Stuff
+This is my new blog i decided to create something with Ruby and more specific i'm using DSL library Sinatra.Posts are stored in GitHub and cached in Redis with RedisToGo nano plan on heroku also everything is hosted on Heroku (except posts).Here's my Gem file. 
