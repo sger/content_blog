@@ -3,7 +3,7 @@ title: Deploy
 tags: [ruby, sinatra, heroku, development, github]
 ---
 
-Quick deploy to [GitHub](http://www.github.com) and [Heroku](http://www.heroku.com) i'm using the following rake task:
+For quick deploy to [GitHub](http://www.github.com) and [Heroku](http://www.heroku.com) i'm using the following rake task:
 
 ``` ruby
 
@@ -17,7 +17,7 @@ end
 `git push heroku master`
 end
 ```
-run the task:
+and then run the task:
 
 ``` ruby
 $rake task
