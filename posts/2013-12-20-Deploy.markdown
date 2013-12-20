@@ -17,7 +17,7 @@ end
 `git push heroku master`
 end
 ```
-run the task
+run the task:
 
 ``` ruby
 $rake task
