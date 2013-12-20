@@ -1,0 +1,19 @@
+---
+title: Deploy
+tags: [ruby, sinatra, heroku, development, github]
+---
+
+Quick deploy to [GitHub](http://www.github.com) and [Heroku](http://www.heroku.com) i'm using the following rake task:
+
+``` ruby
+
+task :deploy do
+  unless `git status -s`.length == 0
+  puts 'Commit any changes'
+  exit
+end
+
+`git push origin master`
+`git push heroku master`
+end
+
