@@ -11,7 +11,8 @@ $ brew update
 $ brew doctor
 Your system is ready to brew.
 ```
-Following the instructions to install Xcode Command Line Tools. If you get the message 'Your system is ready to brew.' the installation is successful.
+
+if you get the message 'Your system is ready to brew.' the installation is successful.
 
 ### Installing [RVM](https://rvm.io/) with latest [Ruby](https://www.ruby-lang.org/en/) and [Rails](http://rubyonrails.org/)
 
